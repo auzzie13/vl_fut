@@ -1,0 +1,13 @@
+[
+  {
+    "studyId": "Test",
+    "windowStartDateTime": "2025-08-07T15:13:02-05:00",
+    "windowEndDateTime": "2025-08-12T09:09:30-05:00",
+    "numberOfUniqueSenders": 3,
+    "uniqueSenders": [
+      120,
+      121,
+      126
+    ]
+  }
+]

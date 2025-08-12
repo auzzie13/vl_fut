@@ -1,0 +1,360 @@
+[
+  {
+    "studyId": "Test",
+    "numberOfUniqueMessagesFromPatient": 3,
+    "numberOfPlayedMessagesFromPatient": 3,
+    "durationOfPlayedMessagesFromPatient": 5.4,
+    "numberOfUniqueMessagesToPatient": 35,
+    "numberOfPlayedMessagesToPatient": 4,
+    "numberOfPlayedReorientationToPatient": 1,
+    "durationOfPlayedMessagesToPatient": 15,
+    "messagesFromPatient": [
+      {
+        "messageId": 123,
+        "durationInSeconds": 1.8,
+        "lastPlayedAt": null,
+        "numberOfTimesPlayed": 0,
+        "isReorientation": false,
+        "messagesPlayed": []
+      },
+      {
+        "messageId": 211,
+        "durationInSeconds": 6,
+        "lastPlayedAt": null,
+        "numberOfTimesPlayed": 0,
+        "isReorientation": false,
+        "messagesPlayed": []
+      },
+      {
+        "messageId": 268,
+        "durationInSeconds": 1.8,
+        "lastPlayedAt": "2025-07-21T19:00:49.151Z",
+        "numberOfTimesPlayed": 3,
+        "isReorientation": false,
+        "messagesPlayed": [
+          {
+            "id": 52,
+            "messageId": 268,
+            "timePlayed": "2025-07-18T16:56:50.562Z"
+          },
+          {
+            "id": 53,
+            "messageId": 268,
+            "timePlayed": "2025-07-18T16:56:58.233Z"
+          },
+          {
+            "id": 61,
+            "messageId": 268,
+            "timePlayed": "2025-07-21T19:00:49.154Z"
+          }
+        ]
+      }
+    ],
+    "messagesToPatient": [
+      {
+        "messageId": 120,
+        "durationInSeconds": 8.4,
+        "lastPlayedAt": null,
+        "numberOfTimesPlayed": 0,
+        "isReorientation": true,
+        "messagesPlayed": []
+      },
+      {
+        "messageId": 121,
+        "durationInSeconds": 4.8,
+        "lastPlayedAt": null,
+        "numberOfTimesPlayed": 0,
+        "isReorientation": false,
+        "messagesPlayed": []
+      },
+      {
+        "messageId": 122,
+        "durationInSeconds": 1.8,
+        "lastPlayedAt": null,
+        "numberOfTimesPlayed": 0,
+        "isReorientation": false,
+        "messagesPlayed": []
+      },
+      {
+        "messageId": 132,
+        "durationInSeconds": 3.6,
+        "lastPlayedAt": null,
+        "numberOfTimesPlayed": 0,
+        "isReorientation": false,
+        "messagesPlayed": []
+      },
+      {
+        "messageId": 135,
+        "durationInSeconds": 1.8,
+        "lastPlayedAt": null,
+        "numberOfTimesPlayed": 0,
+        "isReorientation": false,
+        "messagesPlayed": []
+      },
+      {
+        "messageId": 137,
+        "durationInSeconds": 2.4,
+        "lastPlayedAt": null,
+        "numberOfTimesPlayed": 0,
+        "isReorientation": false,
+        "messagesPlayed": []
+      },
+      {
+        "messageId": 138,
+        "durationInSeconds": 1.8,
+        "lastPlayedAt": null,
+        "numberOfTimesPlayed": 0,
+        "isReorientation": false,
+        "messagesPlayed": []
+      },
+      {
+        "messageId": 139,
+        "durationInSeconds": 3,
+        "lastPlayedAt": null,
+        "numberOfTimesPlayed": 0,
+        "isReorientation": false,
+        "messagesPlayed": []
+      },
+      {
+        "messageId": 142,
+        "durationInSeconds": 3.6,
+        "lastPlayedAt": null,
+        "numberOfTimesPlayed": 0,
+        "isReorientation": false,
+        "messagesPlayed": []
+      },
+      {
+        "messageId": 144,
+        "durationInSeconds": 3.6,
+        "lastPlayedAt": null,
+        "numberOfTimesPlayed": 0,
+        "isReorientation": false,
+        "messagesPlayed": []
+      },
+      {
+        "messageId": 145,
+        "durationInSeconds": 2.4,
+        "lastPlayedAt": null,
+        "numberOfTimesPlayed": 0,
+        "isReorientation": false,
+        "messagesPlayed": []
+      },
+      {
+        "messageId": 146,
+        "durationInSeconds": 2.4,
+        "lastPlayedAt": null,
+        "numberOfTimesPlayed": 0,
+        "isReorientation": false,
+        "messagesPlayed": []
+      },
+      {
+        "messageId": 147,
+        "durationInSeconds": 2.4,
+        "lastPlayedAt": null,
+        "numberOfTimesPlayed": 0,
+        "isReorientation": false,
+        "messagesPlayed": []
+      },
+      {
+        "messageId": 148,
+        "durationInSeconds": 1.8,
+        "lastPlayedAt": null,
+        "numberOfTimesPlayed": 0,
+        "isReorientation": false,
+        "messagesPlayed": []
+      },
+      {
+        "messageId": 150,
+        "durationInSeconds": 2.4,
+        "lastPlayedAt": null,
+        "numberOfTimesPlayed": 0,
+        "isReorientation": false,
+        "messagesPlayed": []
+      },
+      {
+        "messageId": 151,
+        "durationInSeconds": 1.8,
+        "lastPlayedAt": null,
+        "numberOfTimesPlayed": 0,
+        "isReorientation": false,
+        "messagesPlayed": []
+      },
+      {
+        "messageId": 152,
+        "durationInSeconds": 1.8,
+        "lastPlayedAt": null,
+        "numberOfTimesPlayed": 0,
+        "isReorientation": false,
+        "messagesPlayed": []
+      },
+      {
+        "messageId": 153,
+        "durationInSeconds": 1.8,
+        "lastPlayedAt": null,
+        "numberOfTimesPlayed": 0,
+        "isReorientation": false,
+        "messagesPlayed": []
+      },
+      {
+        "messageId": 199,
+        "durationInSeconds": 1.8,
+        "lastPlayedAt": null,
+        "numberOfTimesPlayed": 0,
+        "isReorientation": false,
+        "messagesPlayed": []
+      },
+      {
+        "messageId": 200,
+        "durationInSeconds": 1.8,
+        "lastPlayedAt": null,
+        "numberOfTimesPlayed": 0,
+        "isReorientation": false,
+        "messagesPlayed": []
+      },
+      {
+        "messageId": 201,
+        "durationInSeconds": 1.8,
+        "lastPlayedAt": null,
+        "numberOfTimesPlayed": 0,
+        "isReorientation": false,
+        "messagesPlayed": []
+      },
+      {
+        "messageId": 202,
+        "durationInSeconds": 3,
+        "lastPlayedAt": null,
+        "numberOfTimesPlayed": 0,
+        "isReorientation": false,
+        "messagesPlayed": []
+      },
+      {
+        "messageId": 203,
+        "durationInSeconds": 1.8,
+        "lastPlayedAt": null,
+        "numberOfTimesPlayed": 0,
+        "isReorientation": false,
+        "messagesPlayed": []
+      },
+      {
+        "messageId": 204,
+        "durationInSeconds": 1.8,
+        "lastPlayedAt": null,
+        "numberOfTimesPlayed": 0,
+        "isReorientation": false,
+        "messagesPlayed": []
+      },
+      {
+        "messageId": 205,
+        "durationInSeconds": 3,
+        "lastPlayedAt": null,
+        "numberOfTimesPlayed": 0,
+        "isReorientation": false,
+        "messagesPlayed": []
+      },
+      {
+        "messageId": 206,
+        "durationInSeconds": 1.8,
+        "lastPlayedAt": null,
+        "numberOfTimesPlayed": 0,
+        "isReorientation": false,
+        "messagesPlayed": []
+      },
+      {
+        "messageId": 207,
+        "durationInSeconds": 3.6,
+        "lastPlayedAt": null,
+        "numberOfTimesPlayed": 0,
+        "isReorientation": false,
+        "messagesPlayed": []
+      },
+      {
+        "messageId": 208,
+        "durationInSeconds": 3,
+        "lastPlayedAt": null,
+        "numberOfTimesPlayed": 0,
+        "isReorientation": false,
+        "messagesPlayed": []
+      },
+      {
+        "messageId": 209,
+        "durationInSeconds": 2.4,
+        "lastPlayedAt": null,
+        "numberOfTimesPlayed": 0,
+        "isReorientation": false,
+        "messagesPlayed": []
+      },
+      {
+        "messageId": 210,
+        "durationInSeconds": 10.8,
+        "lastPlayedAt": null,
+        "numberOfTimesPlayed": 0,
+        "isReorientation": false,
+        "messagesPlayed": []
+      },
+      {
+        "messageId": 212,
+        "durationInSeconds": 11.4,
+        "lastPlayedAt": null,
+        "numberOfTimesPlayed": 0,
+        "isReorientation": true,
+        "messagesPlayed": []
+      },
+      {
+        "messageId": 213,
+        "durationInSeconds": 4.2,
+        "lastPlayedAt": "2025-07-18T16:55:48.064Z",
+        "numberOfTimesPlayed": 1,
+        "isReorientation": false,
+        "messagesPlayed": [
+          {
+            "id": 50,
+            "messageId": 213,
+            "timePlayed": "2025-07-18T16:55:48.068Z"
+          }
+        ]
+      },
+      {
+        "messageId": 267,
+        "durationInSeconds": 2.4,
+        "lastPlayedAt": "2025-07-18T16:56:25.345Z",
+        "numberOfTimesPlayed": 1,
+        "isReorientation": false,
+        "messagesPlayed": [
+          {
+            "id": 51,
+            "messageId": 267,
+            "timePlayed": "2025-07-18T16:56:25.348Z"
+          }
+        ]
+      },
+      {
+        "messageId": 270,
+        "durationInSeconds": 7.2,
+        "lastPlayedAt": "2025-07-18T17:10:24.631Z",
+        "numberOfTimesPlayed": 1,
+        "isReorientation": true,
+        "messagesPlayed": [
+          {
+            "id": 56,
+            "messageId": 270,
+            "timePlayed": "2025-07-18T17:10:24.634Z"
+          }
+        ]
+      },
+      {
+        "messageId": 274,
+        "durationInSeconds": 1.2,
+        "lastPlayedAt": "2025-07-21T19:00:35.587Z",
+        "numberOfTimesPlayed": 1,
+        "isReorientation": false,
+        "messagesPlayed": [
+          {
+            "id": 60,
+            "messageId": 274,
+            "timePlayed": "2025-07-21T19:00:35.591Z"
+          }
+        ]
+      }
+    ]
+  }
+]

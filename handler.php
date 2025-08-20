@@ -86,7 +86,7 @@ function processMessageData(array $data) {
     }
 
     $record_id = $study['studyId'];
-    $repeat_instance_start = 1;
+    $repeat_instance_start = getNextRepeatInstanceMsg($record_id);
 
     list($from_patient_arr, $next_instance) = buildMessageArray(
         $study['messagesFromPatient'], 1, $record_id, $repeat_instance_start
@@ -146,7 +146,7 @@ function processChannelData(array $data) {
     }
 
     $record_id = $study['studyId'];
-    $instance = 1; // start repeat instance for per-channel records
+    $instance = getNextRepeatInstanceChnl($record_id);
 
     // Build per-channel repeat form rows
     $rows = [];
